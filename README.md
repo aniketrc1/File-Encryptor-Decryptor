@@ -1,6 +1,6 @@
-# Parallel File Encryptor Decryptor
+# File Encryptor Decryptor
 
-This project is a parallel file encryptor and decryptor implemented in C++. It allows you to encrypt and decrypt files using multiple threads for improved performance.
+This project is a file encryptor and decryptor implemented in C++. It allows you to encrypt and decrypt files using multiple threads for improved performance.
 
 ## Usage
 
@@ -52,3 +52,4 @@ Please note that this project requires a C++ compiler and the pthread library to
 ### Decryption
 
 ![image](https://github.com/anujagrawal699/Parallel-File-Encryptor-Decryptor/assets/121146661/12ea1d29-d8b8-4319-8e14-ceb6ca3af0cd)
+
